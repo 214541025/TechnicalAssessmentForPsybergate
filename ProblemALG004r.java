@@ -19,7 +19,6 @@ public class ProblemALG004r {
                 }
                 else {
                     row = (row + 1) % n;
-                    // don't change col
                 }
             }
             else {
